@@ -1,42 +1,43 @@
-NumPy Fundamentals:
-Overview:
+#NumPy Fundamentals
+#Overview:
 This folder contains my NumPy learning and practice as part of my Data Science journey.
 NumPy (Numerical Python) is a powerful Python library used for numerical computing, array operations, and data manipulation.
 
-Topics Covered:
+#Topics Learned:
 
 - Introduction to NumPy
 - Need for NumPy
 - Advantages over Python Lists
 - Creating Arrays
-- Basic NumPy Methods
+- Scalar and Vector Operations
+- Mathematical & Statistical Functions
+- Trigonometric, Logarithmic & Exponential Functions
+- Indexing and Slicing (1D, 2D, 3D)
+- Iteration using nditer
+- Reshaping (reshape, transpose, ravel)
+- Stacking (Horizontal & Vertical)
+- Splitting (Horizontal & Vertical)
 
-Key Learnings:
+#Key Learnings:
 
-- NumPy provides faster computation than Python lists.
-- NumPy arrays consume less memory.
-- NumPy supports vectorized operations.
-- NumPy is the foundation for Pandas, Machine Learning, and Data Analysis.
+- Faster computation than Python lists
+- Better memory efficiency
+- Supports vectorized operations
+- Foundation of Pandas, Machine Learning, and Data Analysis
 
-Learning Status:
-Completed:
-- [x] Introduction to NumPy
-- [x] Need for NumPy
-- [x] Advantages over Python Lists
-- [x] Creating Arrays
-- [x] Basic Methods
+#Status:
 
-Upcoming:
-- [ ] Indexing
-- [ ] Slicing
-- [ ] Array Operations
-- [ ] Reshaping
-- [ ] Broadcasting
+✅ NumPy Basics Completed
 
-Resources Used:
+#Next Topic:
+
+- [ ] Pandas Fundamentals
+
+#Resources:
+
 - Google Colab
 - Python
 - NumPy Documentation
 
-Goal:
-Build strong NumPy fundamentals before moving to Pandas, Data Visualization, and Machine Learning.
+#Goal:
+Build strong NumPy fundamentals before moving to Pandas, Data Visualization, Machine Learning, and Data Science Projects.
