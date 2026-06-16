@@ -1,47 +1,50 @@
-# Pandas Fundamentals
+# Pandas
 This folder contains my Pandas learning and practice as part of my Data Science journey.
 
-## Topics Covered
-
-### Pandas Series
+#Topics Covered:
+## Pandas Series
 - Creating Series
-- Series Attributes
-- read_csv()
-- head() and tail()
-- sample()
-- value_counts()
-- sort_values()
-- sort_index()
-- count()
-- sum(), product()
-- mean(), median(), mode()
-- min(), max()
-- describe()
-- Indexing and Slicing
-- Fancy Indexing
-- Editing Series
-- Label Indexing
-- Membership Operator
-- Looping
-- Arithmetic Operations
-- Relational Operations
+- Indexing
+- Slicing
 - Boolean Indexing
-- Series Plotting
+- Operations on Series
+- Plotting
 
-## Learning Status
+## Pandas DataFrames
+- Creating DataFrames
+- Reading CSV Files
+- DataFrame Attributes
+- Head and Tail
+- Sample
+- Info
+- Describe
+- Null Values
+- Duplicate Values
+- Renaming Columns
+- Mathematical Operations
+- Column Selection
+- Row Selection
+- iloc
+- loc
+- Filtering
+- Adding New Columns
+
+#Learning Status:
 Completed:
-- [x] Pandas Series
+- Pandas Series
+- Pandas DataFrames
 
 Upcoming:
-- [ ] DataFrames
-- [ ] DataFrame Operations
-- [ ] GroupBy
-- [ ] Missing Values
-- [ ] Merge and Join
-- [ ] Data Cleaning
+- Missing Values
+- GroupBy
+- Merge
+- Concatenation
+- Pivot Tables
 
-## Tools Used
-
+#Tools Used:
 - Python
 - Pandas
 - Google Colab
+
+#Goal:
+Build strong Pandas fundamentals for Data Analysis and Machine Learning.
